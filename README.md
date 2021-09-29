@@ -38,11 +38,16 @@
 |2|3.5|3.97|  
 
 ### 다양함을 추구
-평소 소프트웨어와 관련된 것 뿐만 아니라 다양한 학문에 관심을 가지고 있음  
+#### 평소 소프트웨어와 관련된 것 뿐만 아니라 다양한 학문에 관심을 가지고 있음  
+<img src=양자역학.png width=240 height=180>  
+어릴적부터 천문학에 관심이 많아 우주에 대해 공부하고 알아보다가  
+양자역학이라는 거대한 산을 만나 현재진행형으로 알아가는중  
+<img src=언어학.jpg width=240 height=180>  
+사람들의 심리에 관심이 있어 심리학을 공부하던 중 언어학에 눈이 틔여 하나하나 천천히 알아가는중  
 
 
+---
 
-
-github address: [Jaemyung Cheun](github)  
+**나를 알아볼 수 있는 공간**: [Jaemyung Cheun](github)   
 
 [github]:(https://github.com/Jaemyung-Cheun)
