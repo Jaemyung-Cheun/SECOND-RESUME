@@ -1,6 +1,6 @@
 # 한림대학교 소프트웨어융합대학
 --- 
-<img src=전재명.jpg width=220 height=300>  
+<img src=전재명.jpg width=150 height=230>  
 전재명
 
 ---
