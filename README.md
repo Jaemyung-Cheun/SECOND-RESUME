@@ -3,7 +3,7 @@
 
 <img src=전재명.jpg width=180 height=240>  
 
-### 전재명
+### <img src=이름.jfif width=30 height=30>전재명
 
 ---
 
