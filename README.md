@@ -33,7 +33,7 @@
 >친형은 *인공지능*과 *컴퓨터공학*을 전공함  
 
   
-|<img src=실비아헬스.PNG width=100 height=70>|<img src=링크.png width=50 height=27>(https://silvia.io)|
+|<img src=실비아헬스.PNG width=100 height=70>|<img src=링크.png width=45 height=27>[실비아헬스](https://silvia.io)|
 |---|:---:|
 |친형이 설립한 치매예방회사<br/> 어플을 이용하여 비대면으로 치매예방을 목적으로함|<img src=화살표.png width=20 height=20><br/>링크로 이동|  
 
@@ -74,6 +74,5 @@
 
 ---
 
-   
-
-[github]:(https://github.com/Jaemyung-Cheun)
+<img src=감사.png width=130 height=80> <br/>
+**읽어주셔서 감사합니다**
