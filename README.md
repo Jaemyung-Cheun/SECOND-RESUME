@@ -74,6 +74,6 @@
 
 ---
 
-**나를 알아볼 수 있는 공간**: [Jaemyung Cheun](github)   
+   
 
 [github]:(https://github.com/Jaemyung-Cheun)
